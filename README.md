@@ -34,7 +34,7 @@
     [<a href="https://instagram.com/arxify_">instagram</a>]
     [<a href="https://dsc.bio/arxify">discord-bio</a>]
     [<a href="mailto:arxify@angelic.com">e-mail</a>]
-    [<a href="https://discord.com/users/975954277791047752">open-safe</a>]
+    [<a href="https://discord.com/users/975954277791047752">discord-profile</a>]
   </samp>
 </p>
 
