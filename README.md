@@ -13,7 +13,7 @@
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+coding+and+learning+new+things.">
       <br>
-      [![Discord Presence](https://lanyard.cnrad.dev/api/975954277791047752)](https://discord.com/users/975954277791047752)
+        [![Discord Presence](https://lanyard.cnrad.dev/api/975954277791047752)](https://discord.com/users/975954277791047752)
       <br>
       <b>
         ~ Python & JavaScript ~
