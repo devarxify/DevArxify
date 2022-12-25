@@ -72,7 +72,7 @@
 <div align="center">
   <table>
     <tr>
-       <td><a href="#"><img height="137px" align="center" alt="Discord" src="https://lanyard.cnrad.dev/api/975954277791047752"</a></td>
+       <td><a href="#"><img height="250px" align="center" alt="Discord" src="https://lanyard.cnrad.dev/api/975954277791047752"</a></td>
     </tr>
   </table>
 </div>
