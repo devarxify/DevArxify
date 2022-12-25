@@ -72,7 +72,7 @@
 <div align="center">
   <table>
     <tr>
-      [![Discord Presence](https://lanyard.cnrad.dev/api/975954277791047752)](https://discord.com/users/975954277791047752)
+      [![Discord Presence](https://lanyard.cnrad.dev/api/975954277791047752)]
     </tr>
   </table>
 </div>
