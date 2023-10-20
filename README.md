@@ -10,7 +10,7 @@
         i'm arxify, an entrepreneur and full-stack developer
       </b>
       <br>
-      [![my skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,java,aws)](https://arxify.dev)
+      [![my skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots)](https://arxify.dev)
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=i+love+coding+and+learning+new+things.">
       <br>
