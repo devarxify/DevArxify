@@ -13,7 +13,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+love+coding+and+learning+new+things.">
       <br>
       <br>
-      <b><a href="https://byteworks.lol">
+      <b><a href="https://byteworks.lol" target="_blank">
         ByteWorks
       </a></b>
     </samp>
