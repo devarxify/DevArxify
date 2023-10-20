@@ -23,7 +23,7 @@
 <br>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><samp><b>more info</b></samp></summary>
 
 <h2></h2><br>
 
@@ -32,9 +32,9 @@
   <samp>
     [<a href="https://twitter.com/DevArxify">twitter</a>]
     [<a href="https://instagram.com/arxify">instagram</a>]
-    [<a href="https://dsc.bio/arxify">discord-bio</a>]
-    [<a href="mailto:arxify@byteworks.lol">e-mail</a>]
-    [<a href="https://discord.com/users/975954277791047752">discord-profile</a>]
+    [<a href="mailto:arxify@byteworks.lol">email</a>]
+    [<a href="https://discord.com/users/975954277791047752">discord</a>]
+    [<a href="https://t.me/arxify">telegram</a>]
   </samp>
 </p>
 
