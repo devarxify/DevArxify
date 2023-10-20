@@ -14,7 +14,7 @@
       <br>
       <br>
       <b>
-        ~ python & javascript ~
+        ~ ByteWorks ~
       </b>
     </samp>
   </p>
