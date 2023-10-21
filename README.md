@@ -29,8 +29,12 @@
 
 <h2></h2><br>
 
+<p align="center">
+  <a href="https://arxify.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby" />
+  </a>
+</p>
 
-[![my skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby)](https://arxify.dev)
 <!-- Contact Me -->
 <p align="center">
   <samp>
