@@ -29,7 +29,9 @@
 
 <h2></h2><br>
 
-[![my skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby)](https://arxify.dev)
+<p align="center">
+  [![my skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby)](https://arxify.dev)
+</p>
 <!-- Contact Me -->
 <p align="center">
   <samp>
