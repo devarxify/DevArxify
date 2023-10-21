@@ -30,7 +30,7 @@
 <h2></h2><br>
 
 <p align="center">
-  <a href="https://arxify.dev">
+  <a href="https://arxify.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby" />
   </a>
 </p>
