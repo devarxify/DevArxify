@@ -11,7 +11,7 @@
       </b>
       <br> 
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=want+me+for+a+project?+message+my+telegram+or+shoot+me+an+email">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=want+me+for+a+project%3F;message+my+telegram+or+shoot+me+an+email">
       <br>
       <br>
       <!-- <b><a href="https://byteworks.lol" target="_blank">
