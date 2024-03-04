@@ -5,13 +5,13 @@
   <p align="center">
     <samp>
       <b>
-        hey there!
+        - arxify -
       <br>
-        i'm arxify, an entrepreneur and full-stack developer
+        full-stack developer
       </b>
       <br> 
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=i+love+coding+and+learning+new+things.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=want+me+for+a+project?+message+my+telegram+or+shoot+me+an+email">
       <br>
       <br>
       <!-- <b><a href="https://byteworks.lol" target="_blank">
@@ -38,9 +38,6 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/DevArxify">twitter</a>]
-    [<a href="https://instagram.com/arxify">instagram</a>]
-    [<a href="mailto:arxify@byteworks.lol">email</a>]
     [<a href="https://discord.com/users/975954277791047752">discord</a>]
     [<a href="https://t.me/arxify">telegram</a>]
   </samp>
