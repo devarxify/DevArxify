@@ -5,18 +5,15 @@
   <p align="center">
     <samp>
       <b>
-        - arxify -
+         arxify 
       <br>
         full-stack developer
       </b>
       <br> 
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=want+me+for+a+project%3F;message+my+telegram+or+shoot+me+an+email">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=want+me+for+a+project%3F;click+the+more+info+button+below+👇">
       <br>
       <br>
-      <!-- <b><a href="https://byteworks.lol" target="_blank">
-        ByteWorks
-      </a></b> -->
     </samp>
     
   </p>
@@ -30,22 +27,27 @@
 <h2></h2><br>
 
 <p align="center">
-  <a href="https://arxify.dev" target="_blank">
+  <a href="https://t.me/arxify" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,python,bash,git,aws,cloudflare,codepen,discord,bots,ruby" />
   </a>
 </p>
 
 <!-- Contact Me -->
+<div align="center">
+  <p>I am a full-stack developer from Spain with experience in different aspects of programming/programming languages, including Python, JavaScript, Ruby, Rust, and many more. I also have plenty of experience in UI/UX design and a some experience in cybersecurity (reverse engineering, malware analysis, etc). You can contact me in both English and Spanish if you want me to work for/make any projects using the contact methods shown below (email and Telegram). You can ask for my portfolio if needed.</p>
+</div>
+
 <p align="center">
   <samp>
-    [<a href="https://discord.com/users/975954277791047752">discord</a>]
+    [<a href="mailto:enq+gh@arxify.dev">email address</a>]
     [<a href="https://t.me/arxify">telegram</a>]
   </samp>
 </p>
 
 <h2></h2><br>
 
-<!-- Profile Views Badge -->
+
+<!-- Profile Views Badge
 <p align="center">
   <samp>
   <a href="#--------">
@@ -54,16 +56,16 @@
   </samp>
 </p>
   
-<!-- Discord Status -->
+ Discord Status
 <div align="center">
   <table>
     <tr>
-       <td><a href="#"><img height="250px" align="center" alt="Discord" src="https://lanyard.cnrad.dev/api/975954277791047752"</a></td>
+       <td><a href="#"><img height="250px" align="center" alt="Discord" src="https://lanyard.cnrad.dev/api/CENSORED_DO_NOT_CONTACT_ME_THROUGH_DISCORD"</a></td>
     </tr>
   </table>
 </div>
 
-<!-- Github Trophy -->
+Github Trophy
 <div align="center">
   <table>
     <tr>
@@ -72,7 +74,7 @@
   </table>
 </div>
 
-<!-- Github Stats -->
+Github Stats
 <div align="center">
   <table>
     <tr>
@@ -80,7 +82,7 @@
       <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarxify&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
     </tr>
   </table>
-</div>
+</div>-->
 
 </details>
 </div>
