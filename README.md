@@ -34,7 +34,7 @@
 
 <!-- Contact Me -->
 <div align="center">
-  <p>I am a full-stack developer from Spain with experience in different aspects of programming/programming languages, including Python, JavaScript, Ruby, Rust, and many more. I also have plenty of experience in UI/UX design and a some experience in cybersecurity (reverse engineering, malware analysis, etc). You can contact me in both English and Spanish if you want me to work for/make any projects using the contact methods shown below (email and Telegram). You can ask for my portfolio if needed.</p>
+  <p>I am a full-stack developer from Spain with over 10 years of experience in different aspects of programming/programming languages, including Python, JavaScript, Ruby, Rust, HTML, and many more. I also have plenty of experience in UI/UX design and a some experience in cybersecurity (reverse engineering, malware analysis, etc). You can contact me in both English and Spanish if you want me to work for/make any projects using the contact methods shown below (email and Telegram). You can ask for my portfolio if needed.</p>
 </div>
 
 <p align="center">
